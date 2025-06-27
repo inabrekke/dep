@@ -1,0 +1,7 @@
+flask
+pandas
+matplotlib
+requests
+numpy
+eurostat
+eurostatapiclient
